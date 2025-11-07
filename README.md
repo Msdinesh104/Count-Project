@@ -27,6 +27,4 @@ It displays how many characters have been typed, how many are remaining, and vis
 - **CSS3** – Styling and progress bar design  
 - **JavaScript (ES6)** – Real-time updates and logic handling  
 
----
-   ```bash
-   git clone https://github.com/<your-username>/character-counter.git
+
